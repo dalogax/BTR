@@ -1,0 +1,15 @@
+520 552	->pos parrilla 0
+548 588	->pos parrilla 1
+577 552	->pos parrilla 2
+606 588	->pos parrilla 3
+460 450	->pos semaforo
+380 360	->pos texto ganador
+4	->num checkpoints
+490 500 491 605	->pos ck
+490 570 izq	->pos coche reinicio y orientacion
+55 380 180 381
+120 380 arrib
+490 150 491 255
+490 205 der
+850 380 960 381
+905 380 abaj

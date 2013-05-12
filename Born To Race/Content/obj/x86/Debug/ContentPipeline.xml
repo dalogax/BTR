@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Texturas\Menu\menu_fondo.png</Source>
+      <Name>Texturas\Menu\menu_fondo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu_fondo.xnb</Output>
+      <Time>2010-04-09T17:25:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Menu\opciones_azul.png</Source>
+      <Name>Texturas\Menu\opciones_azul</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_azul.xnb</Output>
+      <Time>2010-04-09T16:06:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Menu\opciones_blanco.png</Source>
+      <Name>Texturas\Menu\opciones_blanco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_blanco.xnb</Output>
+      <Time>2010-04-09T16:01:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Menu\salir_azul.png</Source>
+      <Name>Texturas\Menu\salir_azul</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_azul.xnb</Output>
+      <Time>2010-04-09T16:06:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Menu\salir_blanco.png</Source>
+      <Name>Texturas\Menu\salir_blanco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_blanco.xnb</Output>
+      <Time>2010-04-09T16:01:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Menu\start_azul.png</Source>
+      <Name>Texturas\Menu\start_azul</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_azul.xnb</Output>
+      <Time>2010-04-09T16:05:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Menu\start_blanco.png</Source>
+      <Name>Texturas\Menu\start_blanco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_blanco.xnb</Output>
+      <Time>2010-04-09T16:00:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\Shift.png</Source>
+      <Name>Fuentes\Shift</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Shift.xnb</Output>
+      <Time>2010-11-24T00:46:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\SofaChrome.png</Source>
+      <Name>Fuentes\SofaChrome</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Fuentes\SofaChrome.xnb</Output>
+      <Time>2010-11-24T00:37:45+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\BankGothic.png</Source>
+      <Name>Fuentes\BankGothic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Fuentes\BankGothic.xnb</Output>
+      <Time>2010-11-24T00:30:29+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\Impact.png</Source>
+      <Name>Fuentes\Impact</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Impact.xnb</Output>
+      <Time>2010-11-24T00:17:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\Disko.png</Source>
+      <Name>Fuentes\Disko</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Disko.xnb</Output>
+      <Time>2010-11-23T23:53:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Circuitos\Circuito0.png</Source>
+      <Name>Texturas\Circuitos\Circuito0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito0.xnb</Output>
+      <Time>2010-10-12T21:57:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Circuitos\CircuitoColisiones0.png</Source>
+      <Name>Texturas\Circuitos\CircuitoColisiones0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones0.xnb</Output>
+      <Time>2010-09-27T00:43:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Circuitos\Circuito1.png</Source>
+      <Name>Texturas\Circuitos\Circuito1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito1.xnb</Output>
+      <Time>2010-10-12T22:58:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Circuitos\Circuito2.png</Source>
+      <Name>Texturas\Circuitos\Circuito2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito2.xnb</Output>
+      <Time>2010-10-10T13:06:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Circuitos\Circuito3.png</Source>
+      <Name>Texturas\Circuitos\Circuito3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito3.xnb</Output>
+      <Time>2010-11-01T11:59:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Circuitos\Circuito4.png</Source>
+      <Name>Texturas\Circuitos\Circuito4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito4.xnb</Output>
+      <Time>2010-10-10T13:05:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Circuitos\CircuitoColisiones1.png</Source>
+      <Name>Texturas\Circuitos\CircuitoColisiones1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones1.xnb</Output>
+      <Time>2010-09-28T23:05:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Circuitos\CircuitoColisiones2.png</Source>
+      <Name>Texturas\Circuitos\CircuitoColisiones2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones2.xnb</Output>
+      <Time>2010-09-29T00:51:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Circuitos\CircuitoColisiones3.png</Source>
+      <Name>Texturas\Circuitos\CircuitoColisiones3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones3.xnb</Output>
+      <Time>2010-09-29T14:50:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Circuitos\CircuitoColisiones4.png</Source>
+      <Name>Texturas\Circuitos\CircuitoColisiones4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones4.xnb</Output>
+      <Time>2010-09-29T14:53:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Semaforo\semaforo0.png</Source>
+      <Name>Texturas\Semaforo\semaforo0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo0.xnb</Output>
+      <Time>2010-03-15T15:17:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Coches\coche0.png</Source>
+      <Name>Texturas\Coches\coche0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche0.xnb</Output>
+      <Time>2010-04-09T00:48:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Coches\coche1.png</Source>
+      <Name>Texturas\Coches\coche1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche1.xnb</Output>
+      <Time>2010-04-09T00:56:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Coches\coche2.png</Source>
+      <Name>Texturas\Coches\coche2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche2.xnb</Output>
+      <Time>2010-04-09T00:48:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Coches\coche3.png</Source>
+      <Name>Texturas\Coches\coche3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche3.xnb</Output>
+      <Time>2010-04-09T00:48:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Coches\coche4.png</Source>
+      <Name>Texturas\Coches\coche4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche4.xnb</Output>
+      <Time>2010-04-09T00:48:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Coches\coche5.png</Source>
+      <Name>Texturas\Coches\coche5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche5.xnb</Output>
+      <Time>2010-04-09T00:47:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Semaforo\semaforo1.png</Source>
+      <Name>Texturas\Semaforo\semaforo1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo1.xnb</Output>
+      <Time>2010-03-15T15:17:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Semaforo\semaforo2.png</Source>
+      <Name>Texturas\Semaforo\semaforo2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo2.xnb</Output>
+      <Time>2010-03-15T15:17:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Semaforo\semaforo3.png</Source>
+      <Name>Texturas\Semaforo\semaforo3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo3.xnb</Output>
+      <Time>2010-03-15T15:18:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\Semaforo\semaforo4.png</Source>
+      <Name>Texturas\Semaforo\semaforo4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo4.xnb</Output>
+      <Time>2010-03-15T15:18:06+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-14T11:13:52+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-14T11:13:52+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-14T11:13:52+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-14T11:13:52+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-14T11:13:52+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-10-01T14:03:50.680991+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

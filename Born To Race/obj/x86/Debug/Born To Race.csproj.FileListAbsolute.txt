@@ -1,0 +1,928 @@
+C:\Users\Hugo\Documents\Visual Studio 2008\Projects\Juegos\Born To Race\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\Visual Studio 2008\Projects\Juegos\Born To Race\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Documents\Visual Studio 2008\Projects\Juegos\Born To Race\Born To Race\bin\x86\Debug\Content\Texturas\coche1.xnb
+C:\Users\Hugo\Documents\Visual Studio 2008\Projects\Juegos\Born To Race\Born To Race\bin\x86\Debug\Content\Texturas\pista1.xnb
+C:\Users\Hugo\Documents\Visual Studio 2008\Projects\Juegos\Born To Race\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\Visual Studio 2008\Projects\Juegos\Born To Race\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\Visual Studio 2008\Projects\Juegos\Born To Race\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\Visual Studio 2008\Projects\Juegos\Born To Race\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 23-02-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 23-02-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pista1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 23-02-10\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 23-02-10\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 23-02-10\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\BTR (Born To Race) 23-02-10\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 23-02-10\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 23-02-10\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 24-02-10\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 24-02-10\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 24-02-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 24-02-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pista1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 24-02-10\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 24-02-10\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 24-02-10\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\BTR (Born To Race) 24-02-10\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 24-02-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pistaColisiones1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 24-02-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 24-02-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pista1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 24-02-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pistaColisiones1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 24-02-10\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 24-02-10\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 24-02-10\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 24-02-10\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 24-02-10\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 24-02-10\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 01-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 01-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pista1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 01-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pistaColisiones1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 01-03-10\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 01-03-10\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 01-03-10\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\BTR (Born To Race) 01-03-10\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 01-03-10\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 01-03-10\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 02-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 02-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pista1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 02-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pistaColisiones1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 02-03-10\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 02-03-10\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 02-03-10\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 02-03-10\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 02-03-10\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 02-03-10\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 03-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 03-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pista1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 03-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pistaColisiones1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 03-03-10\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 03-03-10\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 03-03-10\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 03-03-10\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 03-03-10\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 03-03-10\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 03-03-10 - Modo Multi\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 03-03-10 - Modo Multi\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 03-03-10 - Modo Multi\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 03-03-10 - Modo Multi\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 03-03-10 - Modo Multi\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 03-03-10 - Modo Multi\Game\Born To Race\bin\x86\Debug\Content\Texturas\pista1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 03-03-10 - Modo Multi\Game\Born To Race\bin\x86\Debug\Content\Texturas\pistaColisiones1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 03-03-10 - Modo Multi\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 03-03-10 - Modo Multi\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 03-03-10 - Modo Multi\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pista1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pistaColisiones1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\bin\x86\Debug\Content\FuenteMarcador.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\bin\x86\Debug\Content\FuenteGanador.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche1.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pista1.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pistaColisiones1.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche2.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\bin\x86\Debug\Content\FuenteMarcador.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\bin\x86\Debug\Content\FuenteGanador.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 04-03-10\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 10-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche1.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 10-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pista1.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 10-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pistaColisiones1.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 10-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche2.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 10-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\menu1.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 10-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\menu2.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 10-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\menu3.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 10-03-10\Game\Born To Race\bin\x86\Debug\Content\FuenteMarcador.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 10-03-10\Game\Born To Race\bin\x86\Debug\Content\FuenteGanador.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 10-03-10\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 10-03-10\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 10-03-10\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 10-03-10\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 10-03-10\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 10-03-10\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche1.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pista1.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pistaColisiones1.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche2.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\menu1.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\menu2.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\menu3.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\FuenteMarcador.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\FuenteGanador.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo1.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo2.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo3.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo4.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo5.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pista1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\pistaColisiones1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\menu1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\menu2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\menu3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo4.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo5.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\FuenteMarcador.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Content\FuenteGanador.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 15-03-10\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100316\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100316\Game\Born To Race\bin\x86\Debug\Content\Texturas\pista1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100316\Game\Born To Race\bin\x86\Debug\Content\Texturas\pistaColisiones1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100316\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100316\Game\Born To Race\bin\x86\Debug\Content\Texturas\menu1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100316\Game\Born To Race\bin\x86\Debug\Content\Texturas\menu2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100316\Game\Born To Race\bin\x86\Debug\Content\Texturas\menu3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100316\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100316\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100316\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100316\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo4.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100316\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo5.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100316\Game\Born To Race\bin\x86\Debug\Content\FuenteMarcador.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100316\Game\Born To Race\bin\x86\Debug\Content\FuenteGanador.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100316\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100316\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100316\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100316\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100316\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100316\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317\Game\Born To Race\bin\x86\Debug\Content\Texturas\pista1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317\Game\Born To Race\bin\x86\Debug\Content\Texturas\pistaColisiones1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317\Game\Born To Race\bin\x86\Debug\Content\Texturas\menu1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317\Game\Born To Race\bin\x86\Debug\Content\Texturas\menu2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317\Game\Born To Race\bin\x86\Debug\Content\Texturas\menu3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo4.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo5.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317\Game\Born To Race\bin\x86\Debug\Content\FuenteMarcador.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317\Game\Born To Race\bin\x86\Debug\Content\FuenteGanador.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317 - copia\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317 - copia\Game\Born To Race\bin\x86\Debug\Content\Texturas\pista1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317 - copia\Game\Born To Race\bin\x86\Debug\Content\Texturas\pistaColisiones1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317 - copia\Game\Born To Race\bin\x86\Debug\Content\Texturas\coche2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317 - copia\Game\Born To Race\bin\x86\Debug\Content\Texturas\menu1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317 - copia\Game\Born To Race\bin\x86\Debug\Content\Texturas\menu2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317 - copia\Game\Born To Race\bin\x86\Debug\Content\Texturas\menu3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317 - copia\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317 - copia\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317 - copia\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317 - copia\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo4.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317 - copia\Game\Born To Race\bin\x86\Debug\Content\Texturas\semaforo5.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317 - copia\Game\Born To Race\bin\x86\Debug\Content\FuenteMarcador.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317 - copia\Game\Born To Race\bin\x86\Debug\Content\FuenteGanador.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317 - copia\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317 - copia\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317 - copia\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317 - copia\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317 - copia\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100317 - copia\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo4.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo5.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche4.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche5.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche6.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteMarcador.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteGanador.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100409\Game\Born To Race\bin\x86\Debug\Content\circuitos.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteMarcador.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteGanador.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo4.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo5.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche4.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche5.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche6.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu_fondo.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_azul.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_blanco.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_azul.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_blanco.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_azul.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_blanco.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito1.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteMarcador.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteGanador.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo5.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche5.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche6.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu_fondo.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito1.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100430\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteMarcador.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteGanador.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo5.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche5.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche6.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu_fondo.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito1.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 100923\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteMarcador.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteGanador.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo5.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche5.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche6.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu_fondo.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito1.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito5.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones5.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteMarcador.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteGanador.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo1.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo2.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo3.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo4.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo5.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche1.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche3.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche4.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche5.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche6.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito1.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones1.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche2.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu_fondo.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_azul.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_blanco.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_azul.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_blanco.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_azul.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_blanco.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito2.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito3.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito4.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito5.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones2.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones3.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones4.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones5.xnb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito1.txt
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\dalogax\Desktop\BTR\BTR (Born To Race) 290923\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteMarcador.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteGanador.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo1.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo2.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo3.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo4.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo5.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche1.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche3.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche4.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche5.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche6.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito1.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones1.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche2.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu_fondo.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_azul.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_blanco.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_azul.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_blanco.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_azul.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_blanco.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito2.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito3.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito4.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito5.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones2.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones3.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones4.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones5.xnb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito1.txt
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\dalogax\Documents\BTR_propio\BTR (Born To Race) 290923\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito2.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteMarcador.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteGanador.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo5.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche5.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche6.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu_fondo.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito5.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones5.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito1.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito2.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101012\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteMarcador.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteGanador.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo5.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche5.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche6.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu_fondo.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito5.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones5.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito1.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito2.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101014\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteMarcador.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteGanador.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche5.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu_fondo.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito1.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito2.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito0.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones0.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo0.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche0.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteMarcador.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteGanador.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu_fondo.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_azul.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_blanco.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_azul.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_blanco.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_azul.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_blanco.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito0.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones0.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito1.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito2.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito3.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito4.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones1.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones2.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones3.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones4.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo0.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche0.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche1.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche2.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche3.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche4.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche5.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo1.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo2.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo3.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo4.xnb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito1.txt
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito2.txt
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\dalogax\Documents\BTR\BTR (Born To Race) 101019\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteMarcador.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteGanador.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu_fondo.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_azul.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_blanco.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_azul.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_blanco.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_azul.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_blanco.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito0.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones0.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito1.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito2.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito3.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito4.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones1.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones2.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones3.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones4.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo0.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche0.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche1.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche2.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche3.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche4.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche5.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo1.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo2.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo3.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo4.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito0.txt
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito1.txt
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito2.txt
+C:\Users\dalogax\Desktop\BTR (Born To Race) 101019\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito3.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteMarcador.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Fuentes\FuenteGanador.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu_fondo.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito0.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones0.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo0.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche0.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche5.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito0.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito1.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito2.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito3.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101109\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu_fondo.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_azul.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_blanco.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito0.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones0.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo0.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche0.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche5.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo1.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo2.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo3.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo4.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito0.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito1.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito2.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito3.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Disko.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Impact.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Fuentes\BankGothic.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Fuentes\SofaChrome.xnb
+C:\Users\Hugo\Desktop\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Shift.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu_fondo.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_azul.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_blanco.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_azul.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_blanco.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_azul.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_blanco.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Shift.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Fuentes\SofaChrome.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Fuentes\BankGothic.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Impact.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Disko.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito0.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones0.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito4.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones4.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo0.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche0.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche4.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche5.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo4.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito0.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito1.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito2.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito3.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 101123\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu_fondo.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_azul.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_blanco.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_azul.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_blanco.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_azul.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_blanco.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Shift.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Fuentes\SofaChrome.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Fuentes\BankGothic.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Impact.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Disko.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito0.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones0.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito4.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones4.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo0.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche0.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche4.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche5.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo4.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito0.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito1.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito2.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito3.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110222\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu_fondo.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_azul.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_blanco.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_azul.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_blanco.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_azul.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_blanco.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Shift.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Fuentes\SofaChrome.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Fuentes\BankGothic.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Impact.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Disko.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito0.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones0.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito4.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones4.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo0.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche0.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche4.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche5.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo1.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo2.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo3.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo4.xnb
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito0.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito1.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito2.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito3.txt
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\Hugo\Documents\BTR\BTR (Born To Race) 110228\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu_fondo.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_azul.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_blanco.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_azul.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_blanco.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_azul.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_blanco.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Shift.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Fuentes\SofaChrome.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Fuentes\BankGothic.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Impact.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Disko.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito0.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones0.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito1.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito2.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito3.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito4.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones1.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones2.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones3.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones4.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo0.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche0.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche1.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche2.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche3.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche4.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche5.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo1.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo2.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo3.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo4.xnb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito0.txt
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito1.txt
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito2.txt
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito3.txt
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\dalogax\Desktop\BTR (Born To Race) 110302\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\menu_fondo.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_azul.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\opciones_blanco.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_azul.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\salir_blanco.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_azul.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Menu\start_blanco.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Shift.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Fuentes\SofaChrome.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Fuentes\BankGothic.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Impact.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Fuentes\Disko.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito0.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones0.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito1.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito2.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito3.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\Circuito4.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones1.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones2.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones3.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Circuitos\CircuitoColisiones4.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo0.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche0.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche1.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche2.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche3.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche4.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Coches\coche5.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo1.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo2.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo3.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\Texturas\Semaforo\semaforo4.xnb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito0.txt
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito1.txt
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito2.txt
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Content\DatosCircuitos\Circuito3.txt
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Born To Race.exe
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Born To Race.pdb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\obj\x86\Debug\Born To Race.exe
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\obj\x86\Debug\Born To Race.pdb
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Born To Race.exe.manifest
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\bin\x86\Debug\Born To Race.application
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\obj\x86\Debug\Born To Race.exe.manifest
+C:\Users\dalogax\Documents\My Dropbox\BTR\BTR (Born To Race) 110302\Game\Born To Race\obj\x86\Debug\Born To Race.application
