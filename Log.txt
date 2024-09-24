@@ -1,0 +1,72 @@
+14-01-10 -> 	Movimiento básico (acelera, frena y gira con realismo) del coche sobre textura de pista.
+		Pista por capas (asfalto, pianos, hierba, arena).
+		Logo vectorial.
+
+15-01-10 ->	Coche 1 creado de forma vectorial.
+
+23-02-10 ->	Optimización del código fuente.
+		Creado wallpaper BTR 1.
+
+01-03-10 ->	Coche 2 creado de forma vectorial.
+		Creado nuevos wallpapers (5).
+		Creada pista 2 por capas.
+
+02-03-10 ->	Delimitacion del escenario.
+		Deteccion de superficie sobre la circula el coche y su consiguiente influencia en su desplazamiento (asfalto, hierba, arena).
+
+03-03-10 ->	Txt con informacion de cada pista (checkpoints, puntos de rescate y posiciones de salida).
+		Optimización del código fuente 2.
+		Rescate de coche a ultimo checkpoint superado.
+		Contador de vueltas.
+		Modo 2 jugadores.
+
+04-03-10 ->	Mostrar vueltas en pantalla y vencedor.
+
+15-03-10 ->	Pantalla de entrada y menus.
+		Semaforo De parrilla.
+
+09-04-10 ->	Numero de coches aumentado a 6.
+		Establecida resolucion fija de juego a 1024x768.
+		Creado primer circuito con la resolucion de 1024x768.
+		Activado la visualizacion del raton durante el transcurso del juego.
+		
+30-04-10 ->	Leer los datos de los circuitos de un fichero.
+
+23-09-10 ->	Reunión post-vacacional.
+		Reconocimiento pianos.
+		Descartados circuitos anteriores.
+
+29-09-10 ->	Añadidos 5 circuitos nuevos.
+		Limpieza de directorios.
+		Leer los datos de la carrera (semáforo, mensaje de victoria) de un fichero.
+
+12-10-10 ->	Txt de configuracion circuito 2.
+		Añadidas las posiciones de la parrilla de salida a los ficheros de configuracion de circuitos 1 y 2.
+
+13-10-10 ->	Hecho modelo UML preliminar del proyecto.
+		Comienzo de la optimización de código (1ª fase: texturas coche y circuito).
+
+14-10-10 ->	Continuación de la optimización de código (1ª fase: texturas semaforo, menu y fuentes
+							   2ª fase: mejoras de código en las clases Carrera, Physics).
+
+19-10-10 ->	Continuación de la optimización de código (2ª fase: mejoras de código en las clases Carrera, Circuito
+							   3ª fase: clase partida y su repercusión en las otras clases).
+		Transicion entre carreras.
+		Eliminado posicionGanador del fichero de configuracion de los circuitos que no tenia sentido.
+
+09-11-10 ->	Txt de pistas 2 y 3.
+		Menú intermedio entre carreras.
+		Control de ganador de carrera y partida.
+
+24-11-10 ->	Importadas fuentes en formato PNG.
+		Substituidas texturas menu por fuentes.
+		Eleccion provisional de fuentes.
+
+22-02-11 ->	Añadido submenu de opciones (fullScreen, aplicar cambios y volver).
+		Añadido al menu principal partida 1 jugador y multijugador.
+		Posibilidad de volver al menu principal en cualquier punto de la partida.
+
+28-02-11 ->	Modo "contrareloj" para un jugador.
+		Creación de subclases (Partida y carrera un jugador y multijugador).
+		
+02-03-11 -> Optimizacion código.

@@ -1,0 +1,36 @@
+-2-V- Delimitacion del escenario (el coche no puede salir de la pantalla)
+-1-V- Reduccion tamaño coche.
+-1-V- Generalizacion de datos del codigo.
+-3-V- Reconocimiento de pista, hierba, arena, etc
+-2-V- Creacion texturas coches
+-2-V- Creacion modo Debug
+-2-V- Modo Multijugador
+-1-V- Checkpoints y controlador de vueltas
+-1-V- Clase pista
+-2-V- Clase fisica
+-2-V- Txt con informacion de cada pista (checkpoints y posiciones de salida)
+-2-V- Pantalla de entrada y menus
+-2-V- Mostrar vueltas en pantalla y vencedor
+-2-V- Semaforo De parrilla
+-3-V- Mostrar el raton en el juego
+-1-V- Leer los datos de los circuitos de un fichero
+-1-V- Hacer pista de pruebas
+-1-V- Tras finalizar una carrera pasar a la siguiente
+-1-V- Localizar los checkpoints en todas las pistas.
+-1-V- UML del proyecto actual y del proyecto objetivo
+-2-V- Menú intermedio entre carreras.
+-2-V- Fuentes para mensajes durante el juego y sistemas de menús.
+-1-V- Añadir opciones menú : elegir numero de jugadores.
+-2-V- Modos de juego 1 jugador (contrarreloj...).
+-3-V- Añadir alguna opcion a la parte "opciones".
+-4--  Ficheros de configuracion para mantener cambios en opciones permanentes.
+-4--  Fichero de "partidas guardadas" (records, tiempo jugado, victorias...).
+-5--  Creditos en el menu.
+-7--  Pagina web y lanzamiento de juego.
+-1-V- Optimizacion codigo
+-2--  Musica menu
+-3--  Sonidos menu
+-4--  Sonidos y musica durante la carrera
+-3--  Modo Un jugador medallas
+-5--  Modo para 3 y 4 jugadores
+-6--  Modo eliminacion para 2,3,4 jugadores  

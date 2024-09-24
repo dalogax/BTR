@@ -1,0 +1,8 @@
+1-Corregido - Leve->	Girar no implica descenso de velocidad.
+2-Corregido - Grave->	El coche gira al reves marcha atrás.
+1-Corregido - Grave-> EL coche puede acelerar y girar mientras el semaforo esta parado.
+1-Cooregido - Grave-> La reduccion de velocidad al pasar por hierba o arena no se aplica sobre la velocidad.
+1-Corregido - Grave-> Si el coche entra totalmente en los pianos el juego finaliza.
+5--Leve-> La transicción entre colores en el Circuito de colisiones no es total, es gradual.
+1-Corregido - Grave-> Si rescatas el coche al empezar la carrera te manda al checkpoit anterior.
+3--Medio-> Los bounding box alrededor del coche no se acoplan al angulo del coche.
